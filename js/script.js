@@ -21,6 +21,7 @@
 
 
 
+//hard staff and refactoring fail below ;_;
 
 // {
 //     const formElement = document.querySelector(".js-form");
@@ -63,17 +64,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 // szukaj fragmentów kodu, które robią konkretną rzecz, szukaj dla nich dobrych nazw funkcji
 
 // {
@@ -102,11 +92,9 @@
 
 
 
-
-
 // jedna funkcja powinna realizować jedną rzecz
 // funkcja ma zwracać wynik za pomocą słowa return, a nie poprzez przypisanie wyniku do zmiennej na zewnątrz fukncji
-// jeśli funkcja coś liczy, to na koniec powinno być return i zwrócona ta wartość
+// jeśli funkcja coś liczy, to na koniec powinno być return i zwrócona ta wartość ;_;
 
 // {
 //     const formElement = document.querySelector(".js-form");
